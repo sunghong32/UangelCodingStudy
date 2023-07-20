@@ -5,8 +5,8 @@ Uangel CodingTest Study
 
 |          날짜          |         문제 번호         |        문제 이름         |         난이도        | 체크 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 23.07.24 | <a href="https://www.acmicpc.net/problem/10816" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자카드2</a> |  |
-| 23.07.26 | <a href="https://www.acmicpc.net/problem/1439" target="_blank">1439</a> | <a href="https://www.acmicpc.net/problem/1439" target="_blank">뒤집기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
+| 23.07.24 | <a href="https://www.acmicpc.net/problem/10816" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자카드2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
+| 23.07.26 | <a href="https://www.acmicpc.net/problem/1439" target="_blank">1439</a> | <a href="https://www.acmicpc.net/problem/1439" target="_blank">뒤집기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 23.07.28 | <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |  |
 | 23.07.31 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">1992</a> | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  |
 | 23.08.02 | <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a> | <a href="https://www.acmicpc.net/problem/9012" target="_blank">괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |  |
@@ -51,7 +51,7 @@ Uangel CodingTest Study
 | 23.11.01 | <a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a> | <a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |  |
 | 23.11.03 | <a href="https://www.acmicpc.net/problem/17266" target="_blank">17266</a> | <a href="https://www.acmicpc.net/problem/17266" target="_blank">어두운 굴다리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |  |
 | 23.11.06 | <a href="https://www.acmicpc.net/problem/7795" target="_blank">7795</a> | <a href="https://www.acmicpc.net/problem/7795" target="_blank">먹을 것인가 먹힐 것인가</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |  |
-| 23.11.08 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> |  |
+| 23.11.08 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 23.11.10 | <a href="https://www.acmicpc.net/problem/8958" target="_blank">8958</a> | <a href="https://www.acmicpc.net/problem/8958" target="_blank">OX퀴즈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |  |
 | 23.11.13 | <a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a> | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  |
 | 23.11.15 | <a href="https://www.acmicpc.net/problem/1912" target="_blank">1912</a> | <a href="https://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  |
