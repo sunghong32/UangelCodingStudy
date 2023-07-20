@@ -4,7 +4,7 @@ Uangel CodingTest Study
 📖[커리큘럼](https://www.acmicpc.net/workbook/view/15622)📖
 
 |          날짜          |         문제 번호         |        문제 이름         |         난이도        | 체크 |
-| :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 23.07.24 | <a href="https://www.acmicpc.net/problem/10816" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자카드2</a> |  |
 | 23.07.26 | <a href="https://www.acmicpc.net/problem/1439" target="_blank">1439</a> | <a href="https://www.acmicpc.net/problem/1439" target="_blank">뒤집기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 23.07.28 | <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |  |
