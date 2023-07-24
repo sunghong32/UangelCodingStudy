@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  민성홍
+//  BackjoonUangel
 //
 //  Created by 민성홍 on 2023/07/24.
 //
