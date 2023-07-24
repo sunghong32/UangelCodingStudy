@@ -1,5 +1,3 @@
-package baekjoon.datastructure.hashmap;
-
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -21,7 +19,7 @@ import java.util.stream.Collectors;
  * 메모리 : 165524 kb
  * 수행시간 : 1312 ms
  */
-public class NumberCard2 {
+public class Main {
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 
