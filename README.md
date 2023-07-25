@@ -5,7 +5,7 @@ Uangel CodingTest Study
 
 |          날짜          |         문제 번호         |        문제 이름         |         난이도        | 체크 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 23.07.24 | <a href="https://www.acmicpc.net/problem/10816" target="_blank">10816</a> | <a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자카드2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
+| 23.07.24 | <a href="https://www.acmicpc.net/problem/10816" target="_blank">10816</a> | <a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자카드2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅ |
 | 23.07.26 | <a href="https://www.acmicpc.net/problem/1439" target="_blank">1439</a> | <a href="https://www.acmicpc.net/problem/1439" target="_blank">뒤집기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 23.07.28 | <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  |
 | 23.07.31 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">1992</a> | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |  |
