@@ -19,12 +19,13 @@ import java.util.stream.Collectors;
  * 메모리 : 165524 kb
  * 수행시간 : 1312 ms
  */
-public class Main {
+public class NumberCard2 {
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) {
         numberCard2();
+        stop();
     }
 
     private static String readInput() {
@@ -35,6 +36,13 @@ public class Main {
         try {
             writer.write(output);
             writer.flush();
+        } catch (IOException ignored) {/* ignored */}
+    }
+
+    private static void stop(){
+        try {
+            reader.close();
+            writer.close();
         } catch (IOException ignored) {/* ignored */}
     }
 

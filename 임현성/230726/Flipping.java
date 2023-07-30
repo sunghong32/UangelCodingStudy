@@ -12,12 +12,13 @@ import java.io.*;
  * 메모리 : 14264 kb
  * 수행시간 : 128 ms
  */
-public class Main {
+public class Flipping {
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) {
         flipping();
+        stop();
     }
 
     private static String readInput() {
@@ -28,6 +29,13 @@ public class Main {
         try {
             writer.write(output);
             writer.flush();
+        } catch (IOException ignored) {/* ignored */}
+    }
+
+    private static void stop(){
+        try {
+            reader.close();
+            writer.close();
         } catch (IOException ignored) {/* ignored */}
     }
 
