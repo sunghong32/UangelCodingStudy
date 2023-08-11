@@ -32,9 +32,6 @@ var result: Int = 0
 let dx = [-1, 0, 1, 0]
 let dy = [0, 1, 0, -1]
 
-//var curR = r
-//var curC = c
-//var curD = d
 var turnCount = 0
 
 func cleanRoom(x: Int, y: Int, dir: Int) {
