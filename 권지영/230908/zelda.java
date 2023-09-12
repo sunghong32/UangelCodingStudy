@@ -2,6 +2,13 @@ import java.io.*;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+/*
+ * 2023.09.08
+ * BAEKJOON 4485번:녹색 옷 입은 애가 젤다지?
+ * 메모리 : 51552 KB
+ * 시간 : 316 ms
+ * */
+
 public class zelda {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
