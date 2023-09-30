@@ -9,7 +9,7 @@ import java.lang.Math;
  * 시간 : 412 ms
  * */
 
-public class Main{
+public class DatingOnLine{
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 	public static void main(String[] args) throws IOException{
