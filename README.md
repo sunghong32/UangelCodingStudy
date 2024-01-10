@@ -77,7 +77,7 @@ Uangel CodingTest Study
 | 24.01.01 | <a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a> | <a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  | ✅ |
 | 24.01.03 | <a href="https://www.acmicpc.net/problem/10942" target="_blank">10942</a> | <a href="https://www.acmicpc.net/problem/10942" target="_blank">팰린드롬?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  | ✅ |
 | 24.01.05 | <a href="https://www.acmicpc.net/problem/1509" target="_blank">1509</a> | <a href="https://www.acmicpc.net/problem/1509" target="_blank">팰린드롬 분할</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>  | ✅ |
-| 24.01.08 | <a href="https://www.acmicpc.net/problem/1562" target="_blank">1562</a> | <a href="https://www.acmicpc.net/problem/1562" target="_blank">계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>  |  |
+| 24.01.08 | <a href="https://www.acmicpc.net/problem/1562" target="_blank">1562</a> | <a href="https://www.acmicpc.net/problem/1562" target="_blank">계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>  | ✅ |
 | 24.01.10 | <a href="https://www.acmicpc.net/problem/1799" target="_blank">1799</a> | <a href="https://www.acmicpc.net/problem/1799" target="_blank">비숍</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>  |  |
 
 화이팅👊
