@@ -3,8 +3,8 @@ import java.io.*;
 /*
  * 2024.01.08
  * BAEKJOON 1562:계단 수
- * 메모리 : 24232 KB
- * 시간 : 192 ms
+ * 메모리 : 23940 KB
+ * 시간 : 176 ms
  * */
 
 public class NumberOfStairs {
@@ -15,9 +15,6 @@ public class NumberOfStairs {
     static final int MOD = 1000000000;
 
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
         n = Integer.parseInt(br.readLine());
         dp = new long[n + 1][10][1 << 10];
 
